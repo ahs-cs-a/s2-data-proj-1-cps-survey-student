@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.io.File;
 
 
-public class ReadData-Student{
+public class ReadDataStudent{
     //I hard-coded the number of rows and columns so 
     //I could use a 2D array
     private double[][] data = new double[...][...];
